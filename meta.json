@@ -3,9 +3,9 @@
   "name": "Package template",
   "description": "A package to be used as a template for building your own.",
   "version": "1.0.0",
-  "compatible": ["76", "75"],
-  "prefs": {
-    "toolkit.legacyUserProfileCustomizations.stylesheets": true
-  },
+  "compatible": [
+    "76",
+    "75"
+  ],
   "updateUrl": "https://github.com/stashymane/ffmanager-package-template"
 }
